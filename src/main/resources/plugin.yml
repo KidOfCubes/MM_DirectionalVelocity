@@ -1,0 +1,5 @@
+name: MM_DirectionalVelocity
+version: '${version}'
+main: io.github.kidofcubes.mm_directionalvelocity.MM_DirectionalVelocity
+api-version: 1.19
+depend: [MythicMobs]
