@@ -1,4 +1,7 @@
-# MM_DirectionalVelocity
+# This feature was added into MythicMobs on the exact same day as this repo was released, use `relative` instead :thumbsup:
+
+
+## MM_DirectionalVelocity
 A server plugin that adds a directional velocity mechanic to [MythicMobs](https://git.mythiccraft.io/mythiccraft/MythicMobs)
 
 put the jar in the plugins folder
@@ -25,7 +28,7 @@ IceBolt-Hit:
 There are 5 modes: `ADD`, `SUBTRACT`, `MULTIPLY`, `DIVIDE`, and `SET`.
 
 The three directions are `forward`, `right`, and `up`, all set to `0` by default
-(`f`, `r`, and `u` work as well)
+(`f`, `r`, and `u` work as well)~~
 
 
 The values are all relative to the direction of the target entity, so to launch the entity forward, (whichever direction the entity is facing), you would use
